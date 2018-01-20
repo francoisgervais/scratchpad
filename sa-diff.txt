@@ -1,139 +1,178 @@
---------------Updated on - 08/09/2017--------------------
+--------------Updated on - 23/10/2017--------------------
 
 ===========================================Mod List===========================================
-Additional Compression
-Advanced Genetics
-AdvancedSolarPanel
-AE2Stuff
-Applied Energistics 2
-ArmorStatusHUD
-Aroma1997 Core
+AARandomLensBlocker - Actually Additions Addon
+Actually Additions
+Actually Computers
+Advanced Solar Panels
+Armor Stand Configurator
+Aroma1997Core
 Aroma1997s Dimensional World
-AsieLib
-BDLib
+Astral Sorcery
+AutoRegLib
+Backport
+BdLib
+Bed Bugs
+Better Builder's Wands
+Better Combat Mod
+BetterFps
 BiblioCraft
-Big Reactors
 Biomes O' Plenty
-bspkrsCore
-BuildCraft
-Carpenter's Blocks
-Chisel 2
-ChiselFacades
-ChiselTones
-CodeChickenCore
-CodeChickenLib
-CoFHCore
-Collective Framework
-CompactMachines
-ComputerCraft
+Blur
+Bookshelf
+Bookshelf API Library
+Builder's Guides
+Chameleon
+Chance Cubes
+Chicken Chunks 1.8+
+Chisel
+Chisels & Bits
+Clipboard
+CodeChickenCore 1.8+
+CodeChickenLib 1.8+
+Coloassal Chests
+Common Capabilities
+CompatLayer
 Computronics
-Concrete Mod
-Custom Mod Menu
-DamageIndicators Mod
-DanglingVanillaFixer
-Decocraft
+Connected Textures Mod
+Cooking For Blockheads
+Corail Pillar
+Corail Pillar Extension Biome's O'plenty
+Corail Pillar Extension Chisel
+CoroUtil
+Cosmetic Armor Reworked
+Craft Tweaker
+Creative Core
+Custom Main Menu
+Cyberware
+Cyclops Core
+Debug Server Info
+Decocraft2
 Deep Resonance
-Dimensional Anchor
-EIO Recipes TE Induction Smelter
-ElecCore
+Default Options
+Drawers & Bits
+Drones
+Dynamic Surroundings
+ElecCore - Rendering Library
 Enchanting Plus
-EnderIO
-EnderStorage
-EnderTech
-ExtraCells 2
+Ender Compass
+Ender Core
+Ender IO
+Ender Storage 1.8+
+Energy Converters
+Exchangers
+Extra Planets
 Extra Utilities
-FastCraft
-ForgeMultipart
-ForgeRelocation
-ForgeRelocationFMP
-Galacticraft Core
-Galacticraft Planets
-Gravitation Suite
-Grim3212 Core
-Hardcore Questing Mode
-Hats
-iChunUti
+Extreme Reactors
+Farming for Blockheads
+Fast Leaf Decay
+Flux Networks
+FoamFix - Anarchy
+FTBLib
+FTB Utilities
+Galacticraft-Planets
+GalacticraftCore
+Genetics Reborn
+Grapple Hooks
+Gravestone Mod
+Huds - Armor Status & Damage Indicators
+Hwyla
 Immersive Engineering
-Immersive Integration
-Immibis Core
-Industrial Craft 2
-InGameInfoXML
-Integrated Circuits
-Intelligent Energistics
-Inventory Tweaks
-Iron Back Packs
+Industrial Craft
+Industrial Wires
+InGame Info XML
+Initial Inventory
+Inventory Spam
+Iron Backpacks
 Iron Chests
-Java Enforcer
-JourneyMap
-Logistics Pipes
+iTorch
+JEI Integration
+Jounrey Maps
+Just a Few Fish
+Just Enough HarvestCraft (JEHC)
+Just Enough Items
+Just Enough Resources
+LightningCraft
+Literal Ascension
+LittleTiles
+LLibrary
 LunatriusCore
-MachineMuse's Modular Powersuits
-Malisis Core
-Malisis Doors
 Mantle
-mcjtylib
+McjtyLib
 Mekanism
-MekanismGenterators
-MekanismTools
+Mekanism Generators
+Mekanism Tools
 MicdoodleCore
-Mimicry
-Minechem
-MineFactoryReloaded
-MineTweaker 3
-MineTweakerRecipeMaker
-ModTweaker2
-More Planets
-MorePlanetsExtras
+MineTweaker RecipeMaker
+Mini Heads
+Mob Grinding Utils
+ModTweaker
+Modular Powersuits
+More Overlays
 Mouse Tweaks
 MPUtils
-MPUtils Basic tools
-MrCrayfish Furniture Mod
-MrTJPCore
-NEI Addons
-NEI Integration
-Not Enough Items
-Numina
-OC-Minecarts
-OpenBlocks
-Open Computers
-Open Mods Lib
-Open Modular Turrets
-OpenPeripheral AIO-5
-Open Printers
-Open Security
-Pam's HarvestCraft
-Peripherals++
-PneumaticCraft
-Practicalities
-ProjectRed-Base
-ProjectRed-Compat
-ProjectRed-Fabrication
-ProjectRed-Integration
-ProjectRed-Lighting
-ProjectRed-Mechanical Beta
-ProjectRed-World
-QuarryPlus
-RailCraft
-RandomThings
-RedstoneArsenal
+MPUtils Basic Tools
+MTLib
+MultiBeds
+Mystical Agriculture
+Natura
+Neat
+NEI
+NeoTech
+NetherPortalFix
+OMLib
+OpenBlocks Elevator
+OpenComputers
+Open Computers Refined Storage Driver
+OpenModularTurrets
+OpenPrinter
+OpenSecurity
+Ore Excavation
+p455w0rd's Library
+PackGuard
+Pam's Harvestcraft
+Pressure Pipes
+Progressive Automation
+Psi
+QauntumFlux
+Railcraft
+Rainbow Oak Trees
+Random Things
+Reborn Core
+Reborn Storage
 Redstone Paste
+Refined Storage
 Resource Loader
-RopeBridge
-SimplyJetpacks
-SlimevoidLibrary
-Soul Shards Reborn
+RFTools
+RFTools Control
+Rockhounding Core
+Rockhounding Mod: Chemistry
+Rockhounding Rocks
+Rope bridge
+Scannable
+SG Craft
+Shadowfact's Forgelin
+ShadowMC
+ShetiPhianCore
+Simple Achievements
+Simple Generators
+Simply Jetpacks 2
+Sleeping Bag
+Sonar Core
 Space Astronomy Tweaks
+Storage Boats Mod
 Storage Drawers
-ThermalDynmaics
-ThermalExpansion
-ThermalFoundation
-TiCTooltips
-Tinker's Construct
-Tinkers I/O
-TMechworks
-Vein Miner
-Waila
-Waila Harvestability
-Waila Plugins
-Wireless Redstone CBE by ChickenBones
-Ztones
+Storage Drawers Extras
+Tinker I/O
+Tinkers Addons
+Tinkers Contstruct
+Tiny Progressions
+Torch Arrows
+UniDict
+ValkyrieLib
+Vanilla Tools
+Waddles
+WanionLib
+Wireless Crafting Grid
+Weather 2 - Weather, Storms & Tornadoes (Mod)
+ZeroCore
